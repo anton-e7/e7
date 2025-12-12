@@ -1,2 +1,5 @@
 # e7
-Old project folder. Uploading for reference.
+
+Old project folder from 2019. Uploading for reference.
+
+No active support.
